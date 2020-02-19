@@ -58,5 +58,3 @@ Markdown                         1             13              0             45
 -------------------------------------------------------------------------------
 ```
 Refer to : https://github.com/syakirharis25/cloc
-
-adding GitHub repository calculation
