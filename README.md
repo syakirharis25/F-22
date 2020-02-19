@@ -12,7 +12,7 @@ Case studies of Lockheed Martin F-22 Raptor,  all-weather stealth tactical fight
 ## 1. Introduction.
 <img src="nodejs.png" height="150"> 
 The F-22 Raptor defines air dominance. The 5th Generation F-22’s unique combination of stealth, speed, agility, and situational awareness, combined with lethal long-range air-to-air and air-to-ground weaponry, makes it the best air dominance fighter in the world.
-
+<br /><br />
 The Lockheed Martin F-22 Raptor is a single-seat, twin-engine, all-weather stealth tactical fighter aircraft developed for the United States Air Force (USAF). The result of the USAF's Advanced Tactical Fighter (ATF) program, the aircraft was designed primarily as an air superiority fighter, but also has ground attack, electronic warfare, and signal intelligence capabilities. The prime contractor, Lockheed Martin, built most of the F-22's airframe and weapons systems and conducted final assembly, while Boeing provided the wings, aft fuselage, avionics integration, and training systems.
 
 The aircraft was variously designated F-22 and F/A-22 before it formally entered service in December 2005 as the F-22A. Despite its protracted development and various operational issues, USAF officials consider the F-22 a critical component of the service's tactical air power. Its combination of stealth, aerodynamic performance, and situational awareness enable unprecedented air combat capabilities
